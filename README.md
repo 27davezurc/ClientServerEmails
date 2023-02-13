@@ -1,0 +1,2 @@
+# ClientServerEmails
+Collaborated in a group of 3 over a semester-long project to develop a client/server in Java with the ability to send emails and store user information in a MySQL database. This repository contains documentation of our project, which includes use cases, a class diagram, sequence diagrams, state machine diagrams, screenshots of our program during run-time, and a final report. We also implemented Tetris for the post-login screen for fun!
